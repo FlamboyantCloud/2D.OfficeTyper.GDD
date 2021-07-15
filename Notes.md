@@ -12,6 +12,7 @@ Back to [[README]]
 
 ## Cold War
 [wiki](https://en.wikipedia.org/wiki/Cold_War)
+
 [documents](https://alphahistory.com/coldwar/cold-war-documents/)
 
 - Nuclear Weapons

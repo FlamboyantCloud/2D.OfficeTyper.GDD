@@ -51,7 +51,7 @@ Completioning should be 8-10 hours.(?)
 
 ## Endings
 
-**Needs shitload of work**
+***Needs shitload of work***
 
 Multiple endings are possible. Some ideas:
 
