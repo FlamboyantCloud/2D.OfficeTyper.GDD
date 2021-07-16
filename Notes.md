@@ -36,3 +36,8 @@ Documents and ideas might be interesting.
 
 [documents](https://control.fandom.com/wiki/Collectibles/List_of_Collectibles)
 
+
+## Research Material
+
+https://thecenturionreport.com/10-games-like-papers-please/
+
