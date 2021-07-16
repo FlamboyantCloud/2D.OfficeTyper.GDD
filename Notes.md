@@ -39,5 +39,13 @@ Documents and ideas might be interesting.
 
 ## Research Material
 
-https://thecenturionreport.com/10-games-like-papers-please/
+https://dukope.com/trt/play.html (to game tou pope prin to papers please)
+https://www.google.com/search?q=black+border&rlz=1C1GCEU_enGR899GR899&oq=black+border&aqs=chrome..69i57j0i10l9.1356j0j4&sourceid=chrome&ie=UTF-8
+https://doublezeroonezero.itch.io/st-orchints-orphanage
+https://store.steampowered.com/app/352240/The_Westport_Independent/
+We The Revolution
+Beholder 2
+
+
+
 
