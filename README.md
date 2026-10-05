@@ -6,11 +6,12 @@ Game Design Document for 2D.OfficeTyper.
 
 This document specifies a design for the gameplay of the game 2D.OfficeTyper, made by Battery Smooth.
 
-A *Papers, Please*-like typing and document-checking game: an ordinary citizen, allotted to the **Ministry of Truth**, reads, highlights, omits and types the official record, and slowly realises the Ministry is a Ministry of Propaganda. See [[Specification]].
+A *Papers, Please*-like typing and document-checking game: a newly appointed official of the **Ministry of Documentation** of the Republic of **Vlastok** reads, highlights, omits and types the State's documents, and slowly realises the Ministry is a Ministry of Propaganda. See [[Specification]]; story canon in [[Story]].
 
 ## Sections
 
 - [[Specification]]
+- [[Story]] — canonical story & world bible
 - [[Gameplay]]
 - [[Documents]]
 - [[Graphics]]
